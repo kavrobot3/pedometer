@@ -31,6 +31,11 @@ label{
     font-weight: bold;
     font-style: normal;
 }
+
+#counter {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
 input{
     width: 18%;
     border-radius: 10px;
